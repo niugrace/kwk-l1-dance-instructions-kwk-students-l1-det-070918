@@ -1,0 +1,16 @@
+.navigation {
+  width:100%;
+  height: 50px;
+  background-color: lightblue;
+}
+
+
+h1 {
+  text-align: center;
+  font-size: 400%;
+}
+
+body { 
+  background-image: url("https://thenypost.files.wordpress.com/2018/03/nyc.jpg?quality=90&strip=all&w=618&h=410&crop=1");
+  background-size: cover;
+  }
